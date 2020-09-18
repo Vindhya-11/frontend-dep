@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+.bot{
+    z-index: 1;
+}
 body{
     font-family: 'Baloo Chettan 2',cursive;
     line-height: 1.5;
