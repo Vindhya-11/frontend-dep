@@ -19,6 +19,7 @@ body{
     min-height: 100vh;
     background:url('https://ak.picdn.net/shutterstock/videos/1037437010/thumb/10.jpg?ip=x480') center/cover no-repeat fixed;
     margin-top:auto;
+    z-index: -1;
 }
 .hero
 {
